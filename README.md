@@ -4,17 +4,17 @@
 https://colab.research.google.com/drive/10C9EJ0o17tyoaHR0qTZXHMW2wCDjT6jm
 # Выдача FastQC
 ## ENCFF649LQY
-![](/screeenshots/base_ENCFF649LQY.png)
-![](/screeenshots/ENCFF649LQY)
+![](screeenshots/base_ENCFF649LQY.png)
+![](screeenshots/ENCFF649LQY)
 ## ENCFF877QYT
-![](/screeenshots/base_ENCFF877QYT.png)
-![](/screeenshots/ENCFF877QYT.png)
+![](screeenshots/base_ENCFF877QYT.png)
+![](screeenshots/ENCFF877QYT.png)
 ## ENCFF364HZK
-![](/screeenshots/base_ENCFF364HZK.png)
-![](/screeenshots/ENCFF364HZK.png)
+![](screeenshots/base_ENCFF364HZK.png)
+![](screeenshots/ENCFF364HZK.png)
 
 ## MultiQC
-![](/screeenshots/multiQC.png)
+![](screeenshots/multiQC.png)
 
 ### Мини-вывод
 Как можно увидеть на результатах FastQC и MultiQC качество чтений в fastqc файлах достаточно хорошее. Поэтому было принято решение не фильтровать и не подрезать чтения.
@@ -32,16 +32,16 @@ https://colab.research.google.com/drive/10C9EJ0o17tyoaHR0qTZXHMW2wCDjT6jm
 
 # Диаграмма Венна
 ## ENCFF649LQY
-![](/screeenshots/ven1.png)
-![](/screeenshots/venn2.png)
+![](screeenshots/ven1.png)
+![](screeenshots/venn2.png)
 ## ENCFF877QYT
-![](/screeenshots/venn3.png)
-![](/screeenshots/venn4.png)
+![](screeenshots/venn3.png)
+![](screeenshots/venn4.png)
 
 ### Проанализируйте полученные результаты и приведите свои рассуждения в README.md. Как можно объяснить различия в количестве пересечений?
 Количество пересечений отличается, поскольку в одном случае берутся полученные пики, пересекающиеся с пиками ENCODE; а в другом случае отбираются пики ENCODE, совпавшие с пиками, которые получили мы.
 
 # Результаты выполнения бонусного задания
-![](/screeenshots/pic.png)
-![](/screeenshots/pic2.png)
+![](screeenshots/pic.png)
+![](screeenshots/pic2.png)
 Данные ChIP-seq эксперимента из ENCODE согласуются с данными из статьи.
